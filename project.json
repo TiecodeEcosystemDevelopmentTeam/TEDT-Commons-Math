@@ -1,0 +1,13 @@
+{
+    "app_name": "公用数学包（3.6.1版本）",
+    "min_sdk": 21,
+    "version_name": "3.6.1",
+    "kind": 0,
+    "name": "CommonsMath包",
+    "version_code": 1,
+    "typeId": "cn.tiecode.android",
+    "project_version": 2,
+    "target_sdk": 28,
+    "type": "结绳安卓工程",
+    "app_pkg": "org.apache.commons.math3"
+}
