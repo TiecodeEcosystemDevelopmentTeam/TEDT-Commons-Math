@@ -1,6 +1,6 @@
 # 公用数学包 (Apache Commons Math For Tiecode)
 
-![公用数学包](../../Github/Logo.png)
+![公用数学包](./Github/Logo.png)
 
 基于 Apache Commons Math 3.6.1 为结绳中文编程封装的数学工具库，提供统计、分布、矩阵、随机数、分数及基础数学函数支持。
 
