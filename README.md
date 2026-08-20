@@ -1,8 +1,8 @@
-# 公用数学包 (Apache Commons Math For Tiecode)
+# TEDT公用数学包 (TEDT Commons Math)
 
 ![公用数学包](./Github/Logo.png)
 
-基于 Apache Commons Math 3.6.1 为结绳中文编程封装的数学工具库，提供统计、分布、矩阵、随机数、分数及基础数学函数支持。
+基于 Apache Commons Math 3.6.1 为结绳中文编程封装的数学工具库，提供统计、分布、矩阵、随机数、分数及基础数学函数支持，原“公用数学包”。由结绳社区建设组织（TEDT）推出。
 
 ---
 
@@ -175,6 +175,14 @@
 - Commons Math Javadoc
 
 ---
+
+# 📝 更新日志
+
+## V0.4.1
+因组织成立，原公用数学包转移至组织里，并改名为“TEDT Commons Math”（中文名：TEDT公用数学包）。
+
+## V0.4 
+第一个版本。
 
 # 🤝 贡献与反馈
 
